@@ -1,6 +1,6 @@
 import react from "react";
 
-export const MealPlanNavigator = () => {
+export const RecipeListScreen = () => {
   return (
     <></>
   );
