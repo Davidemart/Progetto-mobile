@@ -20,7 +20,8 @@ export const PantryNavigator = () => {
         component={PantryListScreen}
         options={{ title: 'La Mia Dispensa' }}
       />
-
+       <component={AddEditPantryScreen}
+       />
     </Stack.Navigator>
   );
 };
